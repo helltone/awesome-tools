@@ -1,7 +1,7 @@
 # List of awesome tools
 
 ## Low code/automation
-[n8n](https://n8n.io/) Self hosted connect to anything automation tool 
+[n8n](https://n8n.io/) Self hosted connect to anything automation tool  
 [appsmith](https://www.appsmith.com/) Self hosted internal tools/graphs/UI low code platform
 
 ## Help Desking
